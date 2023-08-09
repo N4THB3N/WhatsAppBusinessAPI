@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E4YifHN6cW1Vv04nKgM0WqTbnc76Wtb6uhIy7QJx+M9ua2eFipYOVISz1o9pUBU3RJO33e8v0RIT1d6c5xSg4g==",
+  "success": true,
+  "projectFilePath": "E:\\Temp\\ncastaneda\\Projects\\BX27Chat\\WhatsAppConsoleApp\\WhatsAppConsoleApp\\WhatsAppConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\awssdk.core\\3.7.200.12\\awssdk.core.3.7.200.12.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
